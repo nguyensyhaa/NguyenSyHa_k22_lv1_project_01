@@ -1,2 +1,0 @@
-Min: ('Shattered Glass', 2)
-Max: ('Avatar', 2781505847)

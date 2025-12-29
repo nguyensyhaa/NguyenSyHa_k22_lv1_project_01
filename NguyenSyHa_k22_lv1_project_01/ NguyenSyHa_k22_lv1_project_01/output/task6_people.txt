@@ -1,2 +1,0 @@
-Directors: [('Woody Allen', 45), ('', 44), ('Clint Eastwood', 34), ('Steven Spielberg', 29), ('Martin Scorsese', 29)]
-Actors: [('', 76), ('Robert De Niro', 72), ('Samuel L. Jackson', 71), ('Bruce Willis', 62), ('Nicolas Cage', 61)]
